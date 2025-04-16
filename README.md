@@ -1,5 +1,7 @@
 # 🏎️ F1 Japanese GP Qualifying Prediction (2025)
 
+Created by - Arpit Khanna
+
 This project predicts Q3 qualifying lap times for the 2025 Japanese Grand Prix using historical data and machine learning. It leverages the FastF1 library to fetch real-time F1 data and builds a predictive model based on Q1 and Q2 lap times.
 
 ##  Overview
